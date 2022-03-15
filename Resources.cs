@@ -6,8 +6,8 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
-// I would list the name of the person who has credit to the cheat stuff, but he's a whiny bitch so I'm not going to mention him. I take full credit for implementing his methods
-// With MemorySharp.
+// I would list the name of the person who has credit to the cheat stuff, but he's a whiny bitch so I'm not going to mention him. I take full credit for implementing his
+// Methods with MemorySharp.
 public static class StringExtensions
 {
     public static string[] Split(this string source, string seperator)
